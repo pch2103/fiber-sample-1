@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fiber-sample-1/static/css/main.3662d8d8.chunk.css",
+    "main.js": "/fiber-sample-1/static/js/main.0cdaf948.chunk.js",
+    "main.js.map": "/fiber-sample-1/static/js/main.0cdaf948.chunk.js.map",
+    "runtime-main.js": "/fiber-sample-1/static/js/runtime-main.1b353ea5.js",
+    "runtime-main.js.map": "/fiber-sample-1/static/js/runtime-main.1b353ea5.js.map",
+    "static/js/2.d05d9ebc.chunk.js": "/fiber-sample-1/static/js/2.d05d9ebc.chunk.js",
+    "static/js/2.d05d9ebc.chunk.js.map": "/fiber-sample-1/static/js/2.d05d9ebc.chunk.js.map",
+    "static/js/3.adf8d04e.chunk.js": "/fiber-sample-1/static/js/3.adf8d04e.chunk.js",
+    "static/js/3.adf8d04e.chunk.js.map": "/fiber-sample-1/static/js/3.adf8d04e.chunk.js.map",
+    "index.html": "/fiber-sample-1/index.html",
+    "static/css/main.3662d8d8.chunk.css.map": "/fiber-sample-1/static/css/main.3662d8d8.chunk.css.map",
+    "static/js/2.d05d9ebc.chunk.js.LICENSE.txt": "/fiber-sample-1/static/js/2.d05d9ebc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b353ea5.js",
+    "static/js/2.d05d9ebc.chunk.js",
+    "static/css/main.3662d8d8.chunk.css",
+    "static/js/main.0cdaf948.chunk.js"
+  ]
+}
